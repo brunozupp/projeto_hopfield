@@ -15,7 +15,7 @@ abstract class Padroes {
     padroes.add(obterPadrao3);
     padroes.add(obterPadrao4);
     padroes.add(obterPadrao5);
-    padroes.add(obterPadrao6);
+    //padroes.add(obterPadrao6);
     padroes.add(obterPadrao7);
 
     return padroes;
